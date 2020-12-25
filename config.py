@@ -1,0 +1,3 @@
+API_KEY     = 'PUY_MY_API_KEY_HERE'
+API_SECRET  = 'PUY_MY_API_SECRET_HERE'
+# API_Subaccount = ''PUY_MY_API_Subaccount_HERE''
