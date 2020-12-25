@@ -26,6 +26,7 @@ If useful, buy me a coffee?
  - This trading frame depends on several package, so you need to install them first!
 
     $ pip install -r requirements.txt
+
 ## Requirement
 
 1. [Register an account](https://ftx.com/#a=2500518) with FTX exchange _(referral link)_
